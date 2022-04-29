@@ -1,0 +1,16 @@
+D:\programacao\vs\Urna 2\bin\Debug\net5.0\Urna 2.exe
+D:\programacao\vs\Urna 2\bin\Debug\net5.0\Urna 2.deps.json
+D:\programacao\vs\Urna 2\bin\Debug\net5.0\Urna 2.runtimeconfig.json
+D:\programacao\vs\Urna 2\bin\Debug\net5.0\Urna 2.runtimeconfig.dev.json
+D:\programacao\vs\Urna 2\bin\Debug\net5.0\Urna 2.dll
+D:\programacao\vs\Urna 2\bin\Debug\net5.0\Urna 2.pdb
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\Urna 2.csproj.AssemblyReference.cache
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\Urna 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\Urna 2.AssemblyInfoInputs.cache
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\Urna 2.AssemblyInfo.cs
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\Urna 2.csproj.CoreCompileInputs.cache
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\Urna 2.dll
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\refint\Urna 2.dll
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\Urna 2.pdb
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\Urna 2.genruntimeconfig.cache
+D:\programacao\vs\Urna 2\obj\Debug\net5.0\ref\Urna 2.dll
