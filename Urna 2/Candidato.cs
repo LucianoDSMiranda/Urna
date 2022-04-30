@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Urna_2
+﻿namespace Urna_2
 {
     internal class Candidato
     {
@@ -12,8 +6,6 @@ namespace Urna_2
         public string Partido { get; set; }
         public string Sigla { get; set; }
         public int Id { get; set; }
-
-        public int Votos = 0;
-
+        public int Votos { get; set; }
     }
 }
